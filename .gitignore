@@ -1,0 +1,40 @@
+# Tool/generated files
+*.log
+*.cmd
+*.jou
+*.rpt.old
+*.bak
+*.tmp
+*.swp
+
+# Waveform/database files
+*.vcd
+*.fsdb
+*.wlf
+*.vpd
+
+# ASIC/EDA confidential or generated data
+*.db
+*.lib
+*.lef
+*.gds
+*.gdsii
+*.oas
+*.def
+*.spef
+*.sdf
+*.ndm
+*.tf
+*.tluplus
+*.itf
+*.mw
+*.ddc
+
+# Tool directories
+work/
+WORK/
+INCA_libs/
+simv.daidir/
+icc2_output/
+dc_output/
+pt_output/
